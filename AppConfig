@@ -1,7 +1,9 @@
 {
+"GooglePlay_Top" : 300,
 "GooglePlay_MinVer": "0.0.1",
 "GooglePlay_MaxVer": "99.99.99",
 "GooglePlay_Url": "google.com",
+"IOS_Top" : 300,
 "AppStore_MinVer": "0.0.1",
 "AppStore_MaxVer": "99.99.99",
 "AppStore_Url": "apple.com"
