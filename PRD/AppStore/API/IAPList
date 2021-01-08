@@ -24,12 +24,12 @@
     {
 "Coin":2800,
 "Price":150,
-"ID":"coinpack_superlarge"
+"ID":"coinpack_giant"
     },
     {
 "Coin":5600,
 "Price":290,
-"ID":"coinpack_giant"
+"ID":"coinpack_superlarge"
     },
     {
 "Coin":8500,
