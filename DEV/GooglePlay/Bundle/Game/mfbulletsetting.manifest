@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3451607793
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bulletsetting
+      Dependencies: {}

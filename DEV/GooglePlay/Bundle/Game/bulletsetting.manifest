@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1381007942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8004836a196fbe673181354588fc2ddd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af7dc674ff2f1f81997cbafd4f8f98d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6cb0f95a76630340a40ef5b4b76e13e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce88aefc0a49a9446800a28ec2a6229d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c862e86883807a4f82fbf32d754a385, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/BulletSetting/Bullets/BulletSetting.asset
+- Assets/AssetBundles/BulletSetting/Bullets/Default/drum2.ogg
+- Assets/AssetBundles/BulletSetting/Bullets/Default/Bullet.prefab
+- Assets/AssetBundles/BulletSetting/Bullets/Default/HitVFX.prefab
+Dependencies: []

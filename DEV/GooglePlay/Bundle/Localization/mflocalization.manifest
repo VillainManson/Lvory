@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2329127577
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: chinesetraditional
+      Dependencies: {}
+    Info_1:
+      Name: english
+      Dependencies: {}
