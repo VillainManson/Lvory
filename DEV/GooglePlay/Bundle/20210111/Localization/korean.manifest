@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4270451986
+CRC: 2348471885
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4210596a5633752b9f7bb8a793a75320
+    Hash: bb5089ff2664aa9e72236bdef10021e4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 801b07bdf45ca1c116959ee09ca8f52d
@@ -14,5 +14,5 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundles/Localization/English.asset
+- Assets/AssetBundles/Localization/Korean.asset
 Dependencies: []

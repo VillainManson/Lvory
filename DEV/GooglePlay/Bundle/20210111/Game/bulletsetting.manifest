@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1613762356
+CRC: 2993874222
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b64435a4955f01e6c922540aaedfd45
+    Hash: 96b2cf221526c1720025bd8f6e2af398
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 32b429e16d1cd920be56a2e08eff6431
+    Hash: 55e21817f7ca38e924931c8ac79e5325
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,8 +34,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/AssetBundles/Game/Bullets/Shuriken/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Shuriken/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Doge/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.png
 - Assets/AssetBundles/Game/Bullets/BulletSetting.asset
 - Assets/AssetBundles/Game/Bullets/Default/drum2.ogg
+- Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.png
 - Assets/AssetBundles/Game/Bullets/Default/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Hexagram/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Doge/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Doge/Doge.png
+- Assets/AssetBundles/Game/Bullets/Hexagram/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Default/HitVFX.prefab
 Dependencies: []

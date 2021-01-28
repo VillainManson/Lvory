@@ -1,10 +1,19 @@
 ManifestFileVersion: 0
-CRC: 1751008025
+CRC: 152579644
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: chinesetraditional
+      Name: chinesesimplified
       Dependencies: {}
     Info_1:
+      Name: chinesetraditional
+      Dependencies: {}
+    Info_2:
       Name: english
+      Dependencies: {}
+    Info_3:
+      Name: japanese
+      Dependencies: {}
+    Info_4:
+      Name: korean
       Dependencies: {}
