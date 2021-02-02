@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2993874222
+CRC: 1466306407
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96b2cf221526c1720025bd8f6e2af398
+    Hash: 657f48585c72de24e0bd1bfc93b8f7ef
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 55e21817f7ca38e924931c8ac79e5325
+    Hash: 6799195d42cb2051b2ac3a5dcb475174
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,22 +29,44 @@ ClassTypes:
   Script: {fileID: 11500000, guid: ce88aefc0a49a9446800a28ec2a6229d, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/AssetBundles/Game/Bullets/ShowBall/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/ShowBall/CFXM_T_Anim8_SoleSmoke.png
 - Assets/AssetBundles/Game/Bullets/Shuriken/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Shuriken/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Air/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Dorayaki/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBall.png
+- Assets/AssetBundles/Game/Bullets/ShowBall/SnowballMat.mat
+- Assets/AssetBundles/Game/Bullets/CreditCard/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Fortune/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Dorayaki/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.png
+- Assets/AssetBundles/Game/Bullets/ShowBall/Snowball.png
+- Assets/AssetBundles/Game/Bullets/Air/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Fortune/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/BulletSetting.asset
 - Assets/AssetBundles/Game/Bullets/Default/drum2.ogg
+- Assets/AssetBundles/Game/Bullets/Air/Air.png
 - Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.png
 - Assets/AssetBundles/Game/Bullets/Default/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/ShowBall/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/CreditCard/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Doge.png
+- Assets/AssetBundles/Game/Bullets/Dorayaki/Dorayaki.png
 - Assets/AssetBundles/Game/Bullets/Hexagram/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Default/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Fortune/Fortune.png
+- Assets/AssetBundles/Game/Bullets/CreditCard/CreditCard.png
 Dependencies: []
