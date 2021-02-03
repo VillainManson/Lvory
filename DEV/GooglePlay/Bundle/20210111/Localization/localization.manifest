@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 51897624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2463f82e8b756ab4369c5ba882d6abd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 801b07bdf45ca1c116959ee09ca8f52d
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3be1b25fa0fbaa844a71758898a75f79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Localization/Vietnamese.asset
+Dependencies: []
