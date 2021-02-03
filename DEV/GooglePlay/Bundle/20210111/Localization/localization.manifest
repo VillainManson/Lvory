@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 51897624
+CRC: 426650043
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2463f82e8b756ab4369c5ba882d6abd
+    Hash: 78a0e219cf63b128b1f99a3f06484d69
   TypeTreeHash:
     serializedVersion: 2
     Hash: 801b07bdf45ca1c116959ee09ca8f52d
@@ -14,5 +14,20 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
+- Assets/AssetBundles/Localization/Russian.asset
+- Assets/AssetBundles/Localization/Turkish.asset
+- Assets/AssetBundles/Localization/English.asset
+- Assets/AssetBundles/Localization/Portuguese.asset
+- Assets/AssetBundles/Localization/Czech.asset
+- Assets/AssetBundles/Localization/Indonesian.asset
 - Assets/AssetBundles/Localization/Vietnamese.asset
+- Assets/AssetBundles/Localization/Spanish.asset
+- Assets/AssetBundles/Localization/ChineseTraditional.asset
+- Assets/AssetBundles/Localization/German.asset
+- Assets/AssetBundles/Localization/Thai.asset
+- Assets/AssetBundles/Localization/Korean.asset
+- Assets/AssetBundles/Localization/Italian.asset
+- Assets/AssetBundles/Localization/French.asset
+- Assets/AssetBundles/Localization/ChineseSimplified.asset
+- Assets/AssetBundles/Localization/Japanese.asset
 Dependencies: []
