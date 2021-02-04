@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3174573996
+CRC: 3377337025
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: bulletsetting
+      Dependencies: {}
+    Info_1:
+      Name: gamesetting
       Dependencies: {}
