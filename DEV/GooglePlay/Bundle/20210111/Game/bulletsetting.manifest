@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 60660166
+CRC: 4011519930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b62164956a52c26eb56eee72448b9c3
+    Hash: f77217debe2ae7229ecc02db273f3be7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 75e7aa55ba03a1cc2943ca45621901f5
+    Hash: 68fd2844eb107f728368bb1f60228b7e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,6 +20,8 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 83
+  Script: {instanceID: 0}
+- Class: 96
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: d6cb0f95a76630340a40ef5b4b76e13e, type: 3}
@@ -40,33 +42,62 @@ ClassTypes:
 Assets:
 - Assets/AssetBundles/Game/Bullets/ShowBall/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/ShowBall/CFXM_T_Anim8_SoleSmoke.png
+- Assets/AssetBundles/Game/Bullets/FootBall/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Clown/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim4_RoundedLines.png
+- Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.ogg
 - Assets/AssetBundles/Game/Bullets/Shuriken/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/ShowBall/ShowBall.ogg
 - Assets/AssetBundles/Game/Bullets/Shuriken/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Clown/CFXM_Firework.prefab
 - Assets/AssetBundles/Game/Bullets/Air/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Rainbow/RainbowTrail.png
+- Assets/AssetBundles/Game/Bullets/Rainbow/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Cry/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim8_Triangle2.mat
+- Assets/AssetBundles/Game/Bullets/Clown/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Dorayaki/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/FootBall/FootBall.png
 - Assets/AssetBundles/Game/Bullets/ShowBall/SnowballMat.mat
+- Assets/AssetBundles/Game/Bullets/FootBall/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Olli/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/CreditCard/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Cry/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Fortune/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Clown/Clown.png
+- Assets/AssetBundles/Game/Bullets/Rainbow/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Dorayaki/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.png
+- Assets/AssetBundles/Game/Bullets/Clown/ClownMat.mat
+- Assets/AssetBundles/Game/Bullets/Rainbow/RainbowTrailMat.mat
+- Assets/AssetBundles/Game/Bullets/Clown/CFXM_T_Star.tga
 - Assets/AssetBundles/Game/Bullets/ShowBall/Snowball.png
+- Assets/AssetBundles/Game/Bullets/Bomb/Bomb.png
 - Assets/AssetBundles/Game/Bullets/Air/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Fortune/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Bomb/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/BulletSetting.asset
 - Assets/AssetBundles/Game/Bullets/Default/drum2.ogg
+- Assets/AssetBundles/Game/Bullets/Rainbow/Rainbow.png
+- Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim8_Triangle2.png
 - Assets/AssetBundles/Game/Bullets/Air/Air.png
+- Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim4_RoundedLines.mat
 - Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.png
 - Assets/AssetBundles/Game/Bullets/Default/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/ShowBall/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Olli/Olli.png
 - Assets/AssetBundles/Game/Bullets/CreditCard/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Doge.png
 - Assets/AssetBundles/Game/Bullets/Dorayaki/Dorayaki.png
 - Assets/AssetBundles/Game/Bullets/Hexagram/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Bomb/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Default/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBall.ogg
 - Assets/AssetBundles/Game/Bullets/Fortune/Fortune.png
+- Assets/AssetBundles/Game/Bullets/Cry/Cry.png
+- Assets/AssetBundles/Game/Bullets/Olli/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/CreditCard/CreditCard.png
 Dependencies: []
