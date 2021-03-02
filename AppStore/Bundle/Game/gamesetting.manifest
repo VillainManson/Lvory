@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4072653874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 954c3754e1e6ea200de81a9eaf321306
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e497d076122dd05a96f04aec3c9bd7de
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 97f5925c29e3340fd9aa2ba207160cca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Game/GameSetting.asset
+Dependencies: []
