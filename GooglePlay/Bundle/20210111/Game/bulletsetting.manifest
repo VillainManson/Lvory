@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 822094884
+CRC: 3280627202
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a827489c9281a00ff9146d8353c69b86
+    Hash: 8d10774490ab1ab65b2fc8ad4ac160d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 35010ab1a66085e221552dd33246a5ca
@@ -84,6 +84,7 @@ Assets:
 - Assets/AssetBundles/Game/Bullets/Clown/CFXM_Firework.prefab
 - Assets/AssetBundles/Game/Bullets/Air/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Fortune/FortuneTrail.mat
+- Assets/AssetBundles/Game/Bullets/Doge/DogeMat.mat
 - Assets/AssetBundles/Game/Bullets/Hexagram/HexagramMat.mat
 - Assets/AssetBundles/Game/Bullets/LightingSpear/LightingAnim.prefab
 - Assets/AssetBundles/Game/Bullets/Rainbow/RainbowTrail.png
@@ -111,6 +112,7 @@ Assets:
 - Assets/AssetBundles/Game/Bullets/Rainbow/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Olli/Olli2.ogg
 - Assets/AssetBundles/Game/Bullets/CherryBlossoms/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Olli/OlliMat.mat
 - Assets/AssetBundles/Game/Bullets/Alien/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Dorayaki/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.png
@@ -148,6 +150,7 @@ Assets:
 - Assets/AssetBundles/Game/Bullets/Hexagram/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/DamageA/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBallP.png
 - Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossomsBullets.png
 - Assets/AssetBundles/Game/Bullets/Olli/Olli.png
 - Assets/AssetBundles/Game/Bullets/DamageB/DamageB.png
@@ -175,5 +178,6 @@ Assets:
 - Assets/AssetBundles/Game/Bullets/Olli/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Slash/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/CreditCard/CreditCard.png
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBallPMat.mat
 - Assets/AssetBundles/Game/Bullets/DamageA/DamageA.png
 Dependencies: []
