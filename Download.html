@@ -2,30 +2,20 @@
 <html>
 <head>
 <script>
+const googleLink = 'google.com';
+const apple = 'apple.com';
 var url = 'empty';
 if(!IsPC())
 {
 	switch(MobileType())
     {
     case 'Android':
-    	url = 'https://google.com';
+    	ToGoogle();
     	break;
     case 'IOS':
-    	url = 'https://apple.com';
-        break;
-    case 'WindowsPhone':
-    	url = 'https://www.microsoft.com';
+    	ToApple();
         break;
     }
-    if(url != 'empty')
-    {
-    	document.location.href=url;
-    }
-}
-
-function myFunction() {
-var plat = IsPC() ? 'PC' : MobileType();
-document.getElementById("demo").innerHTML = "Platform: " + plat;
 }
 
 function IsPC() {
@@ -55,14 +45,20 @@ var u = navigator.userAgent;
      }
 }
 
+function ToGoogle()
+{
+document.location.href= googleLink;
+}
+	
+function ToApple()
+{
+document.location.href= appleLink;
+}
+	
 </script>
 </head>
 <body>
-
-<h2>JavaScript in Head</h2>
-
-<p id="demo">Platform</p>
-
-<button type="button" onclick="myFunction()"><img src="https://freepngimg.com/thumb/batman/3-2-batman-logo-png-thumb.png"></button>
+<button type="button" onclick="ToGoogle()"><img src="https://villainmanson.github.io/WhiteBrickDEV/google.png"></button>
+<button type="button" onclick="ToApple()"><img src="https://villainmanson.github.io/WhiteBrickDEV/apple.png"></button>
 </body>
 </html> 
