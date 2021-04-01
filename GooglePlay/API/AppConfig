@@ -6,5 +6,5 @@
 "Url": "https://play.google.com/store/apps/details?id=com.VillainManson.WhiteBrick",
 "IsDebugEnable":true,
 "BahamutURL" : "",
-"IsForceCloseAd" : false
+"IsOpenAd" : true
 }
