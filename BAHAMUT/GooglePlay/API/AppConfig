@@ -1,8 +1,12 @@
 {
-"Top" : 300,
-"MinVer": "0.0.1",
+"Top_Normal" : 300,
+"Top_Long" : 350,
+"MinVer": "0.0.0",
 "MaxVer": "99.99.99",
-"Url": "google.com",
-"IsDebugEnable":true,
-"BahamutURL" : "https://forum.gamer.com.tw/B.php?bsn=7650"
+"Url": "",
+"IsDebugEnable": false,
+"BahamutURL" : "",
+"IsOpenAd" : false,
+"IsShowRewardBtn": false,
+"DefaultCoin" : 950
 }
