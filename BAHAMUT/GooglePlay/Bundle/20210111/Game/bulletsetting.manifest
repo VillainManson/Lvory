@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4011519930
+CRC: 2310694518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f77217debe2ae7229ecc02db273f3be7
+    Hash: 9d1bec64752d4a481c860a8c7dc00db1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 68fd2844eb107f728368bb1f60228b7e
+    Hash: 35010ab1a66085e221552dd33246a5ca
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,11 +24,23 @@ ClassTypes:
 - Class: 96
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 0071b272e1a952e4b918b0b1ceedffc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b88deb6480d293b488b46c78ba8249a0, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: d6cb0f95a76630340a40ef5b4b76e13e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ebb49565c1a766499a8775ced462328, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2c862e86883807a4f82fbf32d754a385, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 903bf6681a2fb1d49b61143410cbae37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8946347b303c16f49af67eeb400ec8ba, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ce88aefc0a49a9446800a28ec2a6229d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c4e038e67616f44ab0667d5464f0422, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 198
@@ -41,63 +53,131 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundles/Game/Bullets/ShowBall/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Alien/ExplosionSheets.png
+- Assets/AssetBundles/Game/Bullets/Olli/Olli3.ogg
 - Assets/AssetBundles/Game/Bullets/ShowBall/CFXM_T_Anim8_SoleSmoke.png
 - Assets/AssetBundles/Game/Bullets/FootBall/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossomsP.prefab
 - Assets/AssetBundles/Game/Bullets/Clown/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Cry/Cry2.ogg
+- Assets/AssetBundles/Game/Bullets/Shuriken/ShurikenMat.mat
+- Assets/AssetBundles/Game/Bullets/LightingSpear/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/DamageB/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossomsP.png
+- Assets/AssetBundles/Game/Bullets/DamageB/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Clown/Clown1.ogg
 - Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim4_RoundedLines.png
 - Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.ogg
+- Assets/AssetBundles/Game/Bullets/Dorayaki/DorayakiHitMat.mat
+- Assets/AssetBundles/Game/Bullets/Slash/SlashSpeedLineMat.mat
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/LightingSpear/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Doge/Doge1.ogg
 - Assets/AssetBundles/Game/Bullets/Shuriken/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightingSpear1.ogg
+- Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.ogg
 - Assets/AssetBundles/Game/Bullets/ShowBall/ShowBall.ogg
+- Assets/AssetBundles/Game/Bullets/Alien/AlienAtlas.png
 - Assets/AssetBundles/Game/Bullets/Shuriken/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/DamageA/Damage.ogg
+- Assets/AssetBundles/Game/Bullets/Olli/Olli1.ogg
 - Assets/AssetBundles/Game/Bullets/Clown/CFXM_Firework.prefab
 - Assets/AssetBundles/Game/Bullets/Air/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Fortune/FortuneTrail.mat
+- Assets/AssetBundles/Game/Bullets/Doge/DogeMat.mat
+- Assets/AssetBundles/Game/Bullets/Hexagram/HexagramMat.mat
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightingAnim.prefab
 - Assets/AssetBundles/Game/Bullets/Rainbow/RainbowTrail.png
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightingTrail.png
 - Assets/AssetBundles/Game/Bullets/Rainbow/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Cry/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim8_Triangle2.mat
 - Assets/AssetBundles/Game/Bullets/Clown/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightingSpear.png
 - Assets/AssetBundles/Game/Bullets/Dorayaki/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Alien/AlienTrailMat.mat
 - Assets/AssetBundles/Game/Bullets/FootBall/FootBall.png
+- Assets/AssetBundles/Game/Bullets/Doge/Doge2.ogg
+- Assets/AssetBundles/Game/Bullets/Cry/CryMat.mat
 - Assets/AssetBundles/Game/Bullets/ShowBall/SnowballMat.mat
 - Assets/AssetBundles/Game/Bullets/FootBall/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Olli/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/CreditCard/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Cry/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Fortune/Fortune.ogg
+- Assets/AssetBundles/Game/Bullets/Dorayaki/Dorayaki2.ogg
 - Assets/AssetBundles/Game/Bullets/Fortune/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Clown/Clown.png
 - Assets/AssetBundles/Game/Bullets/Rainbow/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Olli/Olli2.ogg
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Olli/OlliMat.mat
+- Assets/AssetBundles/Game/Bullets/Alien/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Dorayaki/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/Hexagram.png
+- Assets/AssetBundles/Game/Bullets/Alien/Alien.ogg
+- Assets/AssetBundles/Game/Bullets/Cry/Cry1.ogg
+- Assets/AssetBundles/Game/Bullets/CreditCard/CreditCard.ogg
 - Assets/AssetBundles/Game/Bullets/Clown/ClownMat.mat
+- Assets/AssetBundles/Game/Bullets/Slash/Slash.png
 - Assets/AssetBundles/Game/Bullets/Rainbow/RainbowTrailMat.mat
+- Assets/AssetBundles/Game/Bullets/DamageA/DamageAAltas.png
+- Assets/AssetBundles/Game/Bullets/Alien/AlienExplosionMat.mat
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossoms3.ogg
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossoms1.ogg
 - Assets/AssetBundles/Game/Bullets/Clown/CFXM_T_Star.tga
 - Assets/AssetBundles/Game/Bullets/ShowBall/Snowball.png
 - Assets/AssetBundles/Game/Bullets/Bomb/Bomb.png
 - Assets/AssetBundles/Game/Bullets/Air/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/DamageB/DamageBAltas.png
 - Assets/AssetBundles/Game/Bullets/Fortune/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Bomb/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/BulletSetting.asset
-- Assets/AssetBundles/Game/Bullets/Default/drum2.ogg
+- Assets/AssetBundles/Game/Bullets/DamageA/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Slash/SlashSpeedLine.png
+- Assets/AssetBundles/Game/Bullets/Default/Default.ogg
 - Assets/AssetBundles/Game/Bullets/Rainbow/Rainbow.png
 - Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim8_Triangle2.png
+- Assets/AssetBundles/Game/Bullets/Rainbow/Rainbow.ogg
 - Assets/AssetBundles/Game/Bullets/Air/Air.png
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightEmiMat.mat
 - Assets/AssetBundles/Game/Bullets/Bomb/CFXM_T_Anim4_RoundedLines.mat
 - Assets/AssetBundles/Game/Bullets/Shuriken/Shuriken.png
 - Assets/AssetBundles/Game/Bullets/Default/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/ShowBall/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Alien/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Hexagram/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/Doge/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/DamageA/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBallP.png
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossomsBullets.png
 - Assets/AssetBundles/Game/Bullets/Olli/Olli.png
+- Assets/AssetBundles/Game/Bullets/DamageB/DamageB.png
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossomsMat.mat
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightingSpear2.ogg
+- Assets/AssetBundles/Game/Bullets/Clown/Clown2.ogg
+- Assets/AssetBundles/Game/Bullets/Slash/Slash.ogg
+- Assets/AssetBundles/Game/Bullets/Slash/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Alien/AlienTrail.png
+- Assets/AssetBundles/Game/Bullets/Dorayaki/Dorayaki1.ogg
 - Assets/AssetBundles/Game/Bullets/CreditCard/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/CherryBlossoms/CherryBlossoms2.ogg
 - Assets/AssetBundles/Game/Bullets/Doge/Doge.png
 - Assets/AssetBundles/Game/Bullets/Dorayaki/Dorayaki.png
 - Assets/AssetBundles/Game/Bullets/Hexagram/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Bomb/Bullet.prefab
 - Assets/AssetBundles/Game/Bullets/Default/HitVFX.prefab
+- Assets/AssetBundles/Game/Bullets/Cry/CryP.png
 - Assets/AssetBundles/Game/Bullets/FootBall/FootBall.ogg
+- Assets/AssetBundles/Game/Bullets/ShowBall/SnowballTrail.mat
 - Assets/AssetBundles/Game/Bullets/Fortune/Fortune.png
 - Assets/AssetBundles/Game/Bullets/Cry/Cry.png
+- Assets/AssetBundles/Game/Bullets/LightingSpear/LightningEmi.png
+- Assets/AssetBundles/Game/Bullets/Bomb/Bomb.ogg
 - Assets/AssetBundles/Game/Bullets/Olli/Bullet.prefab
+- Assets/AssetBundles/Game/Bullets/Slash/HitVFX.prefab
 - Assets/AssetBundles/Game/Bullets/CreditCard/CreditCard.png
+- Assets/AssetBundles/Game/Bullets/FootBall/FootBallPMat.mat
+- Assets/AssetBundles/Game/Bullets/DamageA/DamageA.png
 Dependencies: []
