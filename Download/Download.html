@@ -5,8 +5,10 @@
 	
 const googleLink = 'https://www.taptap.io/app/33695573';
 const appleLink = 'https://apps.apple.com/tw/app/lvory-story/id1579047830';
-var url = 'empty';
-if(!IsPC())
+const urlParams = new URLSearchParams(window.location.search);
+const skipRedirect = urlParams.has('skipRedirect');
+
+if(!skipRedirect && !IsPC())
 {
 	switch(MobileType())
     {
